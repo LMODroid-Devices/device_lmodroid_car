@@ -9,5 +9,6 @@
     <overlay
         android:isStatic="true"
         android:priority="350"
-        android:targetPackage="com.android.car.updatable" />
+        android:targetPackage="com.android.car.updatable"
+        android:targetName="CarServiceCustomization" />
 </manifest>
